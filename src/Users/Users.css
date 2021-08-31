@@ -1,0 +1,9 @@
+.Users {
+     display: grid;
+
+     grid-template-columns: repeat(3, 1fr);
+     grid-auto-rows: auto;
+     grid-gap: 1rem;
+     padding-left: 2rem;
+     padding-top: 2rem;
+}
